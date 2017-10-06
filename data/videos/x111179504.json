@@ -1,0 +1,42 @@
+{
+    "title": "media",
+    "description": "",
+    "referenceId": "pmLMC1EeuYg",
+    "date_created": "1502906879",
+    "date_modified": "1502906966",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "111179504",
+    "loginId": "1758397",
+    "entityType": "1",
+    "titleTextEncoded": "media",
+    "category": "",
+    "duration": 6,
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pmLMC1EeuYg\/hqdefault.jpg",
+        "uploadDate": 1502906879,
+        "videoId": "pmLMC1EeuYg",
+        "title": "media",
+        "description": "",
+        "author": "Shreyas Dorle",
+        "mediaDuration": 6,
+        "prettyDuration": "00:00:06",
+        "views": "0"
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 5.3588934
+}
